@@ -13,7 +13,7 @@ I am skilled in SQL, Power BI, and other tools, and I am continuously learning t
 
 ## 🎯 Projects  
 
-### 1. Content Performance Analysis & IPO Readiness for Social Buzz  
+### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/ExcelAnalysis/tree/main)
 **Description**: **Description:**  
 Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
 - **Skills**: Excel  
@@ -34,6 +34,6 @@ Analyzed Social Buzz's data using Excel to identify the top 5 most popular conte
 
 ## 📂 Repository List  
 Here are some repositories showcasing my work: 
-- [Excel Analysis Project](#)  
+- [Excel Analysis Project](https://github.com/Yungssu/ExcelAnalysis/tree/main)  
 - [SQL Sales Analysis Project](#)  
 - [Data Visualization with Power BI](#)  
