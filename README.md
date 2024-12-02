@@ -33,6 +33,7 @@ Analyzed Social Buzz's data using Excel to identify the top 5 most popular conte
 ---
 
 ## 📂 Repository List  
-Here are some repositories showcasing my work:  
+Here are some repositories showcasing my work: 
+- [Excel Analysis Project](#)  
 - [SQL Sales Analysis Project](#)  
 - [Data Visualization with Power BI](#)  
