@@ -19,11 +19,6 @@ Analyzed Social Buzz's data using Excel to identify the top 5 most popular conte
 - **Skills**: Excel  
 - **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
 
-### 2. Project Name: **Data Cleaning & Analysis**  
-**Description**: A project demonstrating the cleaning and analysis of raw datasets using Python and Pandas.  
-- **Skills**: Python, Pandas  
-- **Highlights**: Improved data quality, removed duplicates, and identified trends.  
-
 ---
 
 ## 🔧 Tools & Technologies  
