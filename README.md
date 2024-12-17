@@ -20,11 +20,14 @@ Analyzed Social Buzz's data using Excel to identify the top 5 most popular conte
 - **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
 
 ---
-### 2. [For Power BI](https://github.com/Yungssu/PowerBIDashboard)
+### 2. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
 **Description**: **Description:**  
-Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
-- **Skills**: Excel  
-- **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
+This project involved creating an interactive Power BI dashboard for AtliQ Hardware to visualize and analyze sales data, enabling real-time insights for sales teams and regional managers. The goal was to automate the data analysis process and reduce manual efforts previously done in Excel, providing a comprehensive view of sales performance across markets, products, and customer types.
+- **Skills**: SQL & Power BI  
+- **Highlights**:
+  - Reduced cost by automating data collection and reporting.
+  - Increased sales performance through informed decision-making.
+  - Improved efficiency and reporting accuracy.
 
 ---
 
