@@ -20,7 +20,7 @@ Analyzed Social Buzz's data using Excel to identify the top 5 most popular conte
 - **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
 
 ---
-### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/PowerBIDashboard)
+### 1. [For Power BI](https://github.com/Yungssu/PowerBIDashboard)
 **Description**: **Description:**  
 Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
 - **Skills**: Excel  
