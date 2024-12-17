@@ -40,5 +40,5 @@ This project involved creating an interactive Power BI dashboard for AtliQ Hardw
 ## 📂 Repository List  
 Here are some repositories showcasing my work: 
 - [Excel Analysis Project](https://github.com/Yungssu/ExcelAnalysis/tree/main)  
-- [SQL Sales Analysis Project](#)  
-- [Data Visualization with Power BI](#)  
+- [SQL Sales Analysis Project](#) 
+- [Data Visualization with Power BI](https://github.com/Yungssu/PowerBIDashboard/blob/main).
