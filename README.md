@@ -6,10 +6,7 @@
 ---
 
 ## 📘 About Me  
-I am a passionate Data Analyst with a Bachelor of Science in Computer Science.  
-I am skilled in SQL, Power BI, and other tools, and I am continuously learning to enhance my data analysis skills.  
-
----
+Hi, I’m Kenneth Huyong, an aspiring Data Analyst passionate about uncovering insights from data to drive informed decision-making. I specialize in transforming complex datasets into actionable insights using tools like Power BI, SQL, and Excel. Through hands-on projects, such as building interactive dashboards and streamlining sales analysis, I’ve developed a strong foundation in data visualization, data cleaning, and storytelling. I’m eager to contribute my analytical skills to solve real-world business challenges and continuously grow in the field of data analysis.
 
 ## 🎯 Projects  
 
