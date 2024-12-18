@@ -33,6 +33,10 @@ This project involved creating an interactive Power BI dashboard for AtliQ Hardw
 - **Tools**: Power BI, Excel
 
 ---
+## 📂 Certification
+
+
+---
 
 ## 📂 Repository List  
 Here are some repositories showcasing my work: 
