@@ -34,8 +34,8 @@ This project involved creating an interactive Power BI dashboard for AtliQ Hardw
 
 ---
 ## 📂 Certification
-### [Accenture](https://github.com/Yungssu/Certificate/blob/main/AccentureCertificate.pdf)
-### [Tata](https://github.com/Yungssu/Certificate/blob/main/TataCertificate.pdf)
+### [Accenture North America Data Analytics and Visualization Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/AccentureCertificate.pdf)
+### [Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/TataCertificate.pdf)
 
 
 ---
