@@ -8,6 +8,30 @@
 ## 📘 About Me  
 Hi, I’m Kenneth Huyong, an aspiring Data Analyst passionate about uncovering insights from data to drive informed decision-making. I specialize in transforming complex datasets into actionable insights using tools like Power BI, SQL, and Excel. Through hands-on projects, such as building interactive dashboards and streamlining sales analysis, I’ve developed a strong foundation in data visualization, data cleaning, and storytelling. I’m eager to contribute my analytical skills to solve real-world business challenges and continuously grow in the field of data analysis.
 
+---
+## 📘 Skills
+
+#### **Technical Skills**
+- Proficient in **Power BI** and **Excel**, including Pivot Tables, advanced formulas, and charts for data visualization.  
+- Skilled in **SQL** for data analysis and manipulation.  
+- Experienced in managing databases using **MySQL**.  
+- Knowledgeable in **ETL processes**, data cleaning, and transformation to prepare datasets for analysis.  
+- Able to create interactive dashboards and present insights effectively, focusing on storytelling through data.  
+- Familiar with **AIMS Grid** for managing and organizing projects.
+
+#### **Soft Skills**
+- Strong **problem-solving** abilities, capable of identifying key insights and addressing challenges in data.  
+- Effective in **collaborating** with IT and analytics teams to achieve project goals.  
+- Demonstrates **critical thinking** by analyzing complex datasets and extracting actionable insights.  
+- Clear and concise in **communicating** data-driven recommendations to stakeholders.
+
+#### **Domain Knowledge**
+- Hands-on experience in **business analysis**, particularly in analyzing sales data from projects like the **Social Buzz Project** and the **AtliQ Hardware Dashboard**.  
+- Utilizes market research to identify trends and find growth opportunities.  
+- Supports **data-driven decision-making** by providing actionable insights for strategic planning.  
+
+---
+
 ## 🎯 Projects  
 
 ### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/ExcelAnalysis/tree/main)
