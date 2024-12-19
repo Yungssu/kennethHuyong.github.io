@@ -9,7 +9,7 @@
 Hi, I’m Kenneth Huyong, an aspiring Data Analyst passionate about uncovering insights from data to drive informed decision-making. I specialize in transforming complex datasets into actionable insights using tools like Power BI, SQL, and Excel. Through hands-on projects, such as building interactive dashboards and streamlining sales analysis, I’ve developed a strong foundation in data visualization, data cleaning, and storytelling. I’m eager to contribute my analytical skills to solve real-world business challenges and continuously grow in the field of data analysis.
 
 ---
-## 📘 Skills
+## 🧠 Skills
 
 #### **Technical Skills**
 - Proficient in **Power BI** and **Excel**, including Pivot Tables, advanced formulas, and charts for data visualization.  
@@ -32,7 +32,7 @@ Hi, I’m Kenneth Huyong, an aspiring Data Analyst passionate about uncovering i
 
 ---
 
-## 🎯 Projects  
+## 🚀 Projects  
 
 ### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/ExcelAnalysis/tree/main)
 **Description**: **Description:**  
@@ -57,7 +57,7 @@ This project involved creating an interactive Power BI dashboard for AtliQ Hardw
 - **Tools**: Power BI, Excel
 
 ---
-## 📂 Certification
+## 💼 Certification
 ### [Accenture North America Data Analytics and Visualization Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/AccentureCertificate.pdf)
 ### [Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/TataCertificate.pdf)
 
