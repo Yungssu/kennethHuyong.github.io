@@ -33,7 +33,7 @@ Hi, I’m Kenneth Huyong, an aspiring Data Analyst passionate about uncovering i
 ---
 
 ## 🚀 Projects  
----
+
 ### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/ExcelAnalysis/tree/main)
 **Description**: **Description:**  
 Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
@@ -53,13 +53,13 @@ This project involved creating an interactive Power BI dashboard for AtliQ Hardw
 ---
 
 ## 🔧 Tools & Technologies  
----
+
 - **Languages**: SQL, Python  
 - **Tools**: Power BI, Excel
 
 ---
 ## 💼 Certification
----
+
 ### [Accenture North America Data Analytics and Visualization Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/AccentureCertificate.pdf)
 ### [Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/TataCertificate.pdf)
 
