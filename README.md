@@ -10,6 +10,7 @@ Hi, I’m Kenneth Huyong, an aspiring Data Analyst passionate about uncovering i
 
 ---
 ## 🧠 Skills
+Here are my technical and soft skills for delivering impactful data-driven solutions:
 
 #### **Technical Skills**
 - Proficient in **Power BI** and **Excel**, including Pivot Tables, advanced formulas, and charts for data visualization.  
@@ -58,7 +59,8 @@ This project involved creating an interactive Power BI dashboard for AtliQ Hardw
 - **Tools**: Power BI, Excel
 
 ---
-## 💼 Certification
+## 🏅 Certification
+These certifications validate my technical skills and knowledge:
 
 ### [Accenture North America Data Analytics and Visualization Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/AccentureCertificate.pdf)
 ### [Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate](https://github.com/Yungssu/Certificate/blob/main/TataCertificate.pdf)
