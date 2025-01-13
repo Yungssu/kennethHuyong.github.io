@@ -51,8 +51,14 @@ The Aurora Dashboard initiative attempts to provide a complete picture of consum
   - Gender segmentation reveals distinct income bracket patterns, enabling targeted marketing.
   - Younger customers (18-25) have the highest transaction amounts but also the highest debt-to-income ratio, suggesting potential for financial guidance.
 
+### 3. [Risk Insights Unlocked: Analyzing Financial Data with SQL](https://github.com/Yungssu/ExcelAnalysis/tree/main)
+**Description**: **Description:**  
+Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
+- **Skills**: Excel  
+- **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
 
-### 3. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
+
+### 4. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
 **Description**: **Description:**  
 This project involved creating an interactive Power BI dashboard for AtliQ Hardware to visualize and analyze sales data, enabling real-time insights for sales teams and regional managers. The goal was to automate the data analysis process and reduce manual efforts previously done in Excel, providing a comprehensive view of sales performance across markets, products, and customer types.
 - **Skills**: SQL & Power BI  
