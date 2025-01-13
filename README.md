@@ -51,7 +51,7 @@ The Aurora Dashboard initiative attempts to provide a complete picture of consum
   - Gender segmentation reveals distinct income bracket patterns, enabling targeted marketing.
   - Younger customers (18-25) have the highest transaction amounts but also the highest debt-to-income ratio, suggesting potential for financial guidance.
 
-### 3. [Risk Insights Unlocked: Analyzing Financial Data with SQL](https://github.com/Yungssu/ExcelAnalysis/tree/main)
+### 3. [Risk Insights Unlocked: Analyzing Financial Data with SQL](https://github.com/Yungssu/SQLAnalysis/tree/main)
 **Description**: **Description:**  
 Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
 - **Skills**: Excel  
