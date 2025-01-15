@@ -53,9 +53,9 @@ The Aurora Dashboard initiative attempts to provide a complete picture of consum
 
 ### 3. [Risk Insights Unlocked: Analyzing Financial Data with SQL](https://github.com/Yungssu/SQLAnalysis/tree/main)
 **Description**: **Description:**  
-Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
-- **Skills**: Excel  
-- **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
+Applied AuroraSQL to analyze customer segmentation and profiling data, identifying key patterns and trends across different customer groups. Developed actionable insights to enhance targeted marketing efforts and improve customer engagement.
+- **Skills**: SQL, Excel  
+- **Highlights**: Utilized customer data to segment and profile customers, uncovering valuable insights that guided more personalized marketing strategies and improved customer relationship management.
 
 
 ### 4. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
