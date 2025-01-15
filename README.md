@@ -36,14 +36,14 @@ Here are my technical and soft skills for delivering impactful data-driven solut
 ## 🚀 Projects  
 
 ### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/ExcelAnalysis/tree/main)
-**Description**: **Description:**  
+**Description**:
 Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
 - **Skills**: Excel  
 - **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
 
 
 ### 2. [Aurora Dashboard](https://github.com/Yungssu/PowerBIDashboard)
-**Description**: **Description:**  
+**Description**:
 The Aurora Dashboard initiative attempts to provide a complete picture of consumer demographics, financial health, and activities. By integrating thorough data analysis and visualization, the dashboard enables individualized marketing strategies, improves client segmentation, and supports in efficiently assessing consumer risk levels. This study demonstrates the effectiveness of data-driven decision-making in optimizing corporate strategy and improving consumer engagement.
 - **Skills**: Excel & Power BI  
 - **Highlights**:
@@ -52,14 +52,14 @@ The Aurora Dashboard initiative attempts to provide a complete picture of consum
   - Younger customers (18-25) have the highest transaction amounts but also the highest debt-to-income ratio, suggesting potential for financial guidance.
 
 ### 3. [Risk Insights Unlocked: Analyzing Financial Data with SQL](https://github.com/Yungssu/SQLAnalysis/tree/main)
-**Description**: **Description:**  
+**Description**:  
 Applied AuroraSQL to analyze customer segmentation and profiling data, identifying key patterns and trends across different customer groups. Developed actionable insights to enhance targeted marketing efforts and improve customer engagement.
 - **Skills**: SQL, Excel  
 - **Highlights**: Utilized customer data to segment and profile customers, uncovering valuable insights that guided more personalized marketing strategies and improved customer relationship management.
 
 
 ### 4. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
-**Description**: **Description:**  
+**Description**: 
 This project involved creating an interactive Power BI dashboard for AtliQ Hardware to visualize and analyze sales data, enabling real-time insights for sales teams and regional managers. The goal was to automate the data analysis process and reduce manual efforts previously done in Excel, providing a comprehensive view of sales performance across markets, products, and customer types.
 - **Skills**: SQL & Power BI  
 - **Highlights**:
