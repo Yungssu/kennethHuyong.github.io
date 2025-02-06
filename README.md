@@ -57,8 +57,15 @@ Applied AuroraSQL to analyze customer segmentation and profiling data, identifyi
 - **Skills**: SQL, Excel  
 - **Highlights**: Utilized customer data to segment and profile customers, uncovering valuable insights that guided more personalized marketing strategies and improved customer relationship management.
 
+### 4.
+**Description**:  
+Conducted an in-depth analysis of merchandise sales data using Python to uncover sales trends, optimize inventory management, and enhance revenue strategies. Utilized data visualization techniques to present actionable insights.  
 
-### 4. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
+- **Skills**: Python, Pandas, Matplotlib , Seaborn  
+- **Highlights**: Identified top-selling products, seasonal sales patterns, and key revenue drivers to support data-driven business decisions.  
+
+
+### 5. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
 **Description**: 
 This project involved creating an interactive Power BI dashboard for AtliQ Hardware to visualize and analyze sales data, enabling real-time insights for sales teams and regional managers. The goal was to automate the data analysis process and reduce manual efforts previously done in Excel, providing a comprehensive view of sales performance across markets, products, and customer types.
 - **Skills**: SQL & Power BI  
