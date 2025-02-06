@@ -95,6 +95,6 @@ These certifications validate my technical skills and knowledge:
 Here are some repositories showcasing my work: 
 - [Data Visualization with Power BI](https://github.com/Yungssu/PowerBIDashboard/blob/main). 
 - [Excel Analysis Projects](https://github.com/Yungssu/ExcelAnalysis/tree/main)
-- [Python Analysis Projects]()
+- [Python Analysis Projects](https://github.com/Yungssu/PythonAnalysis/blob/main)
 - [SQL Projects](https://github.com/Yungssu/SQLAnalysis) 
 
