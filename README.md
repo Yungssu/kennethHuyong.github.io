@@ -35,14 +35,14 @@ Here are my technical and soft skills for delivering impactful data-driven solut
 
 ## 🚀 Projects  
 
-### 1. [Content Performance Analysis & IPO Readiness for Social Buzz](https://github.com/Yungssu/ExcelAnalysis/tree/main)
+### 1. [Optimizing Content Strategy & IPO Readiness: Social Buzz Analytics](https://github.com/Yungssu/ExcelAnalysis/tree/main)
 **Description**:
 Analyzed Social Buzz's data using Excel to identify the top 5 most popular content categories. Created clear visualizations and insights to improve user engagement and support IPO preparation.
 - **Skills**: Excel  
 - **Highlights**: Identified and ranked the top 5 most popular content categories using engagement data, highlighting which types drive the most user reactions.
 
 
-### 2. [Aurora Dashboard](https://github.com/Yungssu/PowerBIDashboard)
+### 2. [Aurora Analytics: Unveiling Customer Insights & Financial Trends](https://github.com/Yungssu/PowerBIDashboard)
 **Description**:
 The Aurora Dashboard initiative attempts to provide a complete picture of consumer demographics, financial health, and activities. By integrating thorough data analysis and visualization, the dashboard enables individualized marketing strategies, improves client segmentation, and supports in efficiently assessing consumer risk levels. This study demonstrates the effectiveness of data-driven decision-making in optimizing corporate strategy and improving consumer engagement.
 - **Skills**: Excel & Power BI  
@@ -51,13 +51,13 @@ The Aurora Dashboard initiative attempts to provide a complete picture of consum
   - Gender segmentation reveals distinct income bracket patterns, enabling targeted marketing.
   - Younger customers (18-25) have the highest transaction amounts but also the highest debt-to-income ratio, suggesting potential for financial guidance.
 
-### 3. [Risk Insights Unlocked: Analyzing Financial Data with SQL](https://github.com/Yungssu/SQLAnalysis/tree/main)
+### 3. [Risk Insights Unlocked: Data-Driven Financial Analysis with SQL](https://github.com/Yungssu/SQLAnalysis/tree/main)
 **Description**:  
 Applied AuroraSQL to analyze customer segmentation and profiling data, identifying key patterns and trends across different customer groups. Developed actionable insights to enhance targeted marketing efforts and improve customer engagement.
 - **Skills**: SQL, Excel  
 - **Highlights**: Utilized customer data to segment and profile customers, uncovering valuable insights that guided more personalized marketing strategies and improved customer relationship management.
 
-### 4.
+### 4. [Merchandise Sales Intelligence: Data-Driven Insights with Python]()
 **Description**:  
 Conducted an in-depth analysis of merchandise sales data using Python to uncover sales trends, optimize inventory management, and enhance revenue strategies. Utilized data visualization techniques to present actionable insights.  
 
@@ -65,7 +65,7 @@ Conducted an in-depth analysis of merchandise sales data using Python to uncover
 - **Highlights**: Identified top-selling products, seasonal sales patterns, and key revenue drivers to support data-driven business decisions.  
 
 
-### 5. [Atliq Sales Dashboard](https://github.com/Yungssu/PowerBIDashboard)
+### 5. [Atliq Sales Intelligence Dashboard: Power BI & SQL for Data-Driven Decisions](https://github.com/Yungssu/PowerBIDashboard)
 **Description**: 
 This project involved creating an interactive Power BI dashboard for AtliQ Hardware to visualize and analyze sales data, enabling real-time insights for sales teams and regional managers. The goal was to automate the data analysis process and reduce manual efforts previously done in Excel, providing a comprehensive view of sales performance across markets, products, and customer types.
 - **Skills**: SQL & Power BI  
