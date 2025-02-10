@@ -57,7 +57,7 @@ Applied AuroraSQL to analyze customer segmentation and profiling data, identifyi
 - **Skills**: SQL, Excel  
 - **Highlights**: Utilized customer data to segment and profile customers, uncovering valuable insights that guided more personalized marketing strategies and improved customer relationship management.
 
-### 4. [Merchandise Sales Intelligence: Data-Driven Insights with Python]()
+### 4. [Merchandise Sales Intelligence: Data-Driven Insights with Python](https://github.com/Yungssu/PythonAnalysis)
 **Description**:  
 Conducted an in-depth analysis of merchandise sales data using Python to uncover sales trends, optimize inventory management, and enhance revenue strategies. Utilized data visualization techniques to present actionable insights.  
 
